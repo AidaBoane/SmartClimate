@@ -6,7 +6,7 @@
 - **Curso:** Engenharia Informática On-line (5.º Semestre)
 - **Estudante:** Aida Boane (20141956)
 - **Unidades Curriculares:** Sistemas Distribuídos, Computação Física e IoT, Inteligência Artificial, Engenharia de Software
-- **Repositório GitHub:** [Inserir Link do Repositório]
+- **Repositório GitHub:** https://github.com/AidaBoane/SmartClimate.git
 
 ---
 
