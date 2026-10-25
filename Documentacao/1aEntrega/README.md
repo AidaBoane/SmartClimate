@@ -1,6 +1,7 @@
 # Projeto: SmartClimate - Monitor de Conforto Térmico e Risco de Condensação
 
 ## Identificação
+**AIDA**
 - **Universidade:** Universidade Europeia
 - **Faculdade:** Faculdade de Design, Tecnologia e Comunicação
 - **Curso:** Engenharia Informática On-line (5.º Semestre)
